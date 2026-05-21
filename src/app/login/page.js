@@ -113,7 +113,6 @@ export default function Login() {
         >
           Continue with Google
         </button>
-
         {/* Footer */}
         <p className="text-center text-gray-400 text-sm mt-6">
           Don’t have an account?{" "}
@@ -121,7 +120,6 @@ export default function Login() {
             Register
           </a>
         </p>
-
       </div>
     </div>
   );
